@@ -1,2 +1,6 @@
+atom-wrap-in-tag@0.6.0
+autoclose-html@0.23.0
+emmet@2.4.3
 language-haml@0.25.2
+pigments@0.40.2
 
