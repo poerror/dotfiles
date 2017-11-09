@@ -1,6 +1,8 @@
 atom-wrap-in-tag@0.6.0
 autoclose-html@0.23.0
 emmet@2.4.3
+emmet-jsx-css-modules@1.0.0
+language-babel@2.78.0
 language-haml@0.25.2
 pigments@0.40.2
 
