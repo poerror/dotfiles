@@ -1,5 +1,6 @@
 atom-wrap-in-tag@0.6.0
 autoclose-html@0.23.0
+autocomplete-paths@2.12.2
 emmet@2.4.3
 emmet-jsx-css-modules@1.0.0
 language-babel@2.78.0
